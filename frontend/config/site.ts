@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Multichain Defi",
+  name: "MultichainDefiX",
   description:
     "Built using Wormhole",
   mainNav: [

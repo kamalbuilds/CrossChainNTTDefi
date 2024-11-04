@@ -167,9 +167,9 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="mb-4 text-3xl font-bold">MultiChainDefi</h1>
+      <h1 className="mb-4 text-3xl font-bold">MultiChainDefiX</h1>
       <p className="mb-4">
-        Multichaindefi innovates DeFi by offering a multi-chain lending and
+        MultichaindefiX innovates DeFi by offering a multi-chain lending and
         borrowing protocol...
       </p>
 
