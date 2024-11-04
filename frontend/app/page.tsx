@@ -241,7 +241,6 @@ export default function Component() {
     </div>
   )
 }
-
 function CheckIcon(props: any) {
   return (
     <svg
