@@ -5,11 +5,11 @@
 "Seamlessly Lend, Deposit, Repay, and Redeem Across Multiple Chains."
 
 ## Overview
-The Multichain Lending and Borrowing Platform is designed to empower users with the flexibility to manage their assets across various blockchain networks. 
+The CrossChain Lending and Borrowing Platform is designed to empower users with the flexibility to manage their assets across various blockchain networks. 
 
 Built with Wormhole NTT Model.
 
-Utilizing a Hub and Spoke model, this platform facilitates seamless interoperability and liquidity, allowing users to engage in lending, depositing, repaying, and redeeming activities on different chains without the complexity typically associated with multichain operations.
+Utilizing a Hub and Spoke model, this platform facilitates seamless interoperability and liquidity, allowing users to engage in lending, depositing, repaying, and redeeming activities on different chains without the complexity typically associated with CrossChain operations.
 
 ## Problems It Solves
 - **Fragmented Liquidity**: Traditional lending and borrowing platforms often limit users to a single blockchain, restricting their access to liquidity and yield opportunities.
@@ -19,7 +19,7 @@ Utilizing a Hub and Spoke model, this platform facilitates seamless interoperabi
 - **Limited Flexibility**: Users often face challenges when trying to manage their assets across different chains, particularly when it comes to repayments and redemptions.
 
 ## The Solution
-The Multichain Lending and Borrowing Platform offers a comprehensive solution by leveraging the Wormhole Hub and Spoke model. This architecture allows for seamless interactions between various blockchains, enabling users to perform lending, depositing, repaying, and redeeming activities without the need for complex transactions or intermediaries.
+The CrossChain Lending and Borrowing Platform offers a comprehensive solution by leveraging the Wormhole Hub and Spoke model. This architecture allows for seamless interactions between various blockchains, enabling users to perform lending, depositing, repaying, and redeeming activities without the need for complex transactions or intermediaries.
 
 ## Features
 - **Lend on Multiple Chains**: Users can lend their assets on one blockchain while benefiting from competitive interest rates.
@@ -30,16 +30,16 @@ The Multichain Lending and Borrowing Platform offers a comprehensive solution by
 
 - **Instant Redemption**: Redeem assets across chains instantly, ensuring liquidity and accessibility when needed.
 
-- **User-Friendly Interface**: A clean and intuitive interface that simplifies the multichain experience for both novice and experienced users.
+- **User-Friendly Interface**: A clean and intuitive interface that simplifies the CrossChain experience for both novice and experienced users.
 
 - **Robust Security**: Built with top-tier security protocols to ensure the safety of user assets and transactions.
 
 ## Contract Addresses
 
 Hub ChainiD - 10002
-MultiChainLendingHub -  https://thirdweb.com/sepolia/0x76414c98ee9AD3F776054f16A351831b71870Ff3
+CrossChainLendingHub -  https://thirdweb.com/sepolia/0x76414c98ee9AD3F776054f16A351831b71870Ff3
 
-MultiChainToken -
+CrossChainToken -
 
 Sepolia -  https://thirdweb.com/sepolia/0xDe918aEf7f38AA916625d90B3Ca60D5c20B19317
 
@@ -49,7 +49,7 @@ Op Sepolia - 0x9df6785ec662ff2426F1f064D4c72B82aFEd0A60
 
 Arb Sepolia - 0x9df6785ec662ff2426F1f064D4c72B82aFEd0A60
 
-MultiChainSpoke - 
+CrossChainSpoke - 
 
 1. https://thirdweb.com/base-sepolia-testnet/0x553126B5d9535a30fA4639adA7ADBdfdDC746AFd
 
@@ -74,7 +74,7 @@ MultiChainSpoke -
 
 ## Account Abstraction & Authentication
 
-The MultiChain Lending and Borrowing Platform leverages Particle Network's Auth and Account Abstraction solution to provide a seamless user experience:
+The CrossChain Lending and Borrowing Platform leverages Particle Network's Auth and Account Abstraction solution to provide a seamless user experience:
 
 ### Particle Auth Integration
 - **Social Login Support**: Users can authenticate using email, Google, Apple, Twitter, and GitHub accounts
@@ -114,14 +114,14 @@ This implementation allows users to interact with the lending and borrowing feat
 
 ## UML Diagramatic Flow
 
-Diagram to illustrate the flow and interactions between the `MultiChainLendingHub`, `MultiChainLendingSpoke`, and `MultiChainToken` contracts in your multi-chain lending application.
+Diagram to illustrate the flow and interactions between the `CrossChainLendingHub`, `CrossChainLendingSpoke`, and `CrossChainToken` contracts in your multi-chain lending application.
 
 ```mermaid
 sequenceDiagram
     participant User
-    participant Hub as MultiChainLendingHub
-    participant Spoke as MultiChainLendingSpoke
-    participant Token as MultiChainToken
+    participant Hub as CrossChainLendingHub
+    participant Spoke as CrossChainLendingSpoke
+    participant Token as CrossChainToken
     participant Relayer as WormholeRelayer
 
     User ->> Spoke: deposit(amount)
@@ -192,4 +192,4 @@ sequenceDiagram
 
 ## Conclusion
 
-The Multichain Lending and Borrowing Platform is revolutionizing the way users interact with blockchain technology. By providing a seamless, user-friendly experience and addressing the challenges of liquidity and interoperability, this platform empowers users to maximize their financial potential across multiple chains. Join us in redefining the future of decentralized finance!
+The CrossChain Lending and Borrowing Platform is revolutionizing the way users interact with blockchain technology. By providing a seamless, user-friendly experience and addressing the challenges of liquidity and interoperability, this platform empowers users to maximize their financial potential across multiple chains. Join us in redefining the future of decentralized finance!
