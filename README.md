@@ -1,11 +1,15 @@
-# MultiChainX
+# CrossChain Defi
 
---> Multichain Lending and Borrowing Platform
+--> CrossChain Lending and Borrowing Defi Platform
 
 "Seamlessly Lend, Deposit, Repay, and Redeem Across Multiple Chains."
 
 ## Overview
-The Multichain Lending and Borrowing Platform is designed to empower users with the flexibility to manage their assets across various blockchain networks. Utilizing a Hub and Spoke model, this platform facilitates seamless interoperability and liquidity, allowing users to engage in lending, depositing, repaying, and redeeming activities on different chains without the complexity typically associated with multichain operations.
+The Multichain Lending and Borrowing Platform is designed to empower users with the flexibility to manage their assets across various blockchain networks. 
+
+Built with Wormhole NTT Model.
+
+Utilizing a Hub and Spoke model, this platform facilitates seamless interoperability and liquidity, allowing users to engage in lending, depositing, repaying, and redeeming activities on different chains without the complexity typically associated with multichain operations.
 
 ## Problems It Solves
 - **Fragmented Liquidity**: Traditional lending and borrowing platforms often limit users to a single blockchain, restricting their access to liquidity and yield opportunities.
