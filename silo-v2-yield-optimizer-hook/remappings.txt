@@ -1,0 +1,9 @@
+forge-std/=gitmodules/forge-std/src/
+silo-foundry-utils/=gitmodules/silo-foundry-utils/contracts/
+silo-core-v2/=gitmodules/silo-contracts-v2/silo-core/contracts/
+silo-core-v2-test/=gitmodules/silo-contracts-v2/silo-core/test/
+silo-oracles-v2/=gitmodules/silo-contracts-v2/silo-oracles/contracts/
+
+openzeppelin5/=gitmodules/openzeppelin-contracts-5/contracts/
+@openzeppelin/contracts/=gitmodules/openzeppelin-contracts-5/contracts/
+@openzeppelin/contracts-upgradeable/=gitmodules/silo-contracts-v2/gitmodules/openzeppelin-contracts-upgradeable-5/contracts/
